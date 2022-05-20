@@ -1,0 +1,1152 @@
+{
+    "_id": "62780bdb90656a1cfca31555",
+    "comments": [],
+    "league": {
+        "slug": "2.-snl-558",
+        "name": "2. SNL",
+        "fullName": null,
+        "logoPath": "https://cdn.sportmonks.com/images/soccer/leagues/14/558.png",
+        "imagePath": null,
+        "isPopular": "false",
+        "isCup": false,
+        "type": "domestic",
+        "popularity": "55.2",
+        "commonName": null,
+        "_id": "5ffd845a92ea42799a96365b"
+    },
+    "localTeam": {
+        "slug": "Nafta-7314",
+        "name": "Nafta",
+        "fullName": null,
+        "logoPath": "https://cdn.sportmonks.com/images/soccer/teams/18/7314.png",
+        "imagePath": null,
+        "isPopular": "false",
+        "isCup": false,
+        "type": null,
+        "popularity": null,
+        "commonName": null,
+        "_id": "5ffc5097ebde212dac2380c4"
+    },
+    "localTeamStats": {
+        "stats": {
+            "xg": 0,
+            "PPG": 2.25,
+            "BTTS": 50,
+            "cards": 0.75,
+            "goals": 4.5,
+            "corners": 12.5,
+            "over0_5": 100,
+            "over1_5": 100,
+            "over2_5": 75,
+            "over3_5": 75,
+            "_id": "62867a9d39ce1000379089b4"
+        },
+        "percentile": {
+            "xg": 0,
+            "PPG": 77.3,
+            "BTTS": 63.6,
+            "cards": 63.6,
+            "goals": 22.7,
+            "corners": 77.3,
+            "over0_5": 18.2,
+            "over1_5": 22.7,
+            "over2_5": 45.5,
+            "over3_5": 50,
+            "_id": "6287064a39ce100037558fb7"
+        }
+    },
+    "scores": {
+        "htScore": "0-0",
+        "ftScore": null,
+        "etScore": null,
+        "psScore": null,
+        "localTeamScore": 0,
+        "visitorTeamScore": 0,
+        "localTeamPenScore": null,
+        "visitorTeamPenScore": null
+    },
+    "season": {
+        "slug": "2021-2022-18477",
+        "name": "2021/2022",
+        "fullName": null,
+        "logoPath": null,
+        "imagePath": null,
+        "isPopular": "false",
+        "isCup": false,
+        "type": null,
+        "popularity": null,
+        "commonName": null,
+        "_id": "60ec32b017e5d2606dd1b6d8"
+    },
+    "slug": "nafta-vs-dekani-18177039",
+    "time": {
+        "status": "HT",
+        "startingAt": {
+            "date": "2022-05-20T17:00:00.000Z",
+            "timezone": "UTC"
+        },
+        "minute": 45,
+        "second": null,
+        "addedTime": null,
+        "injuryTime": null
+    },
+    "trends": [
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:45:06.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "possession",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 49
+                },
+                {
+                    "minute": 2,
+                    "amount": 52
+                },
+                {
+                    "minute": 3,
+                    "amount": 56
+                },
+                {
+                    "minute": 4,
+                    "amount": 53
+                },
+                {
+                    "minute": 5,
+                    "amount": 63
+                },
+                {
+                    "minute": 6,
+                    "amount": 65
+                },
+                {
+                    "minute": 7,
+                    "amount": 63
+                },
+                {
+                    "minute": 8,
+                    "amount": 64
+                },
+                {
+                    "minute": 9,
+                    "amount": 63
+                },
+                {
+                    "minute": 10,
+                    "amount": 64
+                },
+                {
+                    "minute": 11,
+                    "amount": 64
+                },
+                {
+                    "minute": 12,
+                    "amount": 61
+                },
+                {
+                    "minute": 13,
+                    "amount": 62
+                },
+                {
+                    "minute": 14,
+                    "amount": 61
+                },
+                {
+                    "minute": 15,
+                    "amount": 62
+                },
+                {
+                    "minute": 16,
+                    "amount": 63
+                },
+                {
+                    "minute": 17,
+                    "amount": 64
+                },
+                {
+                    "minute": 18,
+                    "amount": 63
+                },
+                {
+                    "minute": 19,
+                    "amount": 61
+                },
+                {
+                    "minute": 20,
+                    "amount": 61
+                },
+                {
+                    "minute": 21,
+                    "amount": 61
+                },
+                {
+                    "minute": 22,
+                    "amount": 61
+                },
+                {
+                    "minute": 24,
+                    "amount": 62
+                },
+                {
+                    "minute": 25,
+                    "amount": 61
+                },
+                {
+                    "minute": 28,
+                    "amount": 60
+                },
+                {
+                    "minute": 29,
+                    "amount": 61
+                },
+                {
+                    "minute": 31,
+                    "amount": 59
+                },
+                {
+                    "minute": 32,
+                    "amount": 60
+                },
+                {
+                    "minute": 33,
+                    "amount": 60
+                },
+                {
+                    "minute": 34,
+                    "amount": 58
+                },
+                {
+                    "minute": 35,
+                    "amount": 60
+                },
+                {
+                    "minute": 36,
+                    "amount": 60
+                },
+                {
+                    "minute": 39,
+                    "amount": 61
+                },
+                {
+                    "minute": 40,
+                    "amount": 62
+                },
+                {
+                    "minute": 41,
+                    "amount": 60
+                },
+                {
+                    "minute": 42,
+                    "amount": 61
+                },
+                {
+                    "minute": 44,
+                    "amount": 62
+                },
+                {
+                    "minute": 45,
+                    "amount": 61
+                }
+            ],
+            "team": "5ffc5097ebde212dac2380c4"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:45:06.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "attacks",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 4
+                },
+                {
+                    "minute": 2,
+                    "amount": 6
+                },
+                {
+                    "minute": 3,
+                    "amount": 9
+                },
+                {
+                    "minute": 5,
+                    "amount": 11
+                },
+                {
+                    "minute": 6,
+                    "amount": 12
+                },
+                {
+                    "minute": 7,
+                    "amount": 13
+                },
+                {
+                    "minute": 9,
+                    "amount": 14
+                },
+                {
+                    "minute": 10,
+                    "amount": 16
+                },
+                {
+                    "minute": 11,
+                    "amount": 17
+                },
+                {
+                    "minute": 12,
+                    "amount": 18
+                },
+                {
+                    "minute": 13,
+                    "amount": 19
+                },
+                {
+                    "minute": 14,
+                    "amount": 20
+                },
+                {
+                    "minute": 16,
+                    "amount": 23
+                },
+                {
+                    "minute": 17,
+                    "amount": 25
+                },
+                {
+                    "minute": 20,
+                    "amount": 26
+                },
+                {
+                    "minute": 21,
+                    "amount": 30
+                },
+                {
+                    "minute": 22,
+                    "amount": 31
+                },
+                {
+                    "minute": 23,
+                    "amount": 34
+                },
+                {
+                    "minute": 24,
+                    "amount": 36
+                },
+                {
+                    "minute": 25,
+                    "amount": 38
+                },
+                {
+                    "minute": 26,
+                    "amount": 39
+                },
+                {
+                    "minute": 29,
+                    "amount": 40
+                },
+                {
+                    "minute": 31,
+                    "amount": 42
+                },
+                {
+                    "minute": 32,
+                    "amount": 43
+                },
+                {
+                    "minute": 33,
+                    "amount": 45
+                },
+                {
+                    "minute": 34,
+                    "amount": 46
+                },
+                {
+                    "minute": 35,
+                    "amount": 51
+                },
+                {
+                    "minute": 36,
+                    "amount": 52
+                },
+                {
+                    "minute": 37,
+                    "amount": 54
+                },
+                {
+                    "minute": 38,
+                    "amount": 55
+                },
+                {
+                    "minute": 39,
+                    "amount": 57
+                },
+                {
+                    "minute": 40,
+                    "amount": 58
+                },
+                {
+                    "minute": 42,
+                    "amount": 59
+                },
+                {
+                    "minute": 43,
+                    "amount": 60
+                },
+                {
+                    "minute": 45,
+                    "amount": 61
+                }
+            ],
+            "team": "5ffc5097ebde212dac2380c4"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:45:06.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "dangerous_attacks",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 4
+                },
+                {
+                    "minute": 3,
+                    "amount": 5
+                },
+                {
+                    "minute": 5,
+                    "amount": 6
+                },
+                {
+                    "minute": 6,
+                    "amount": 7
+                },
+                {
+                    "minute": 7,
+                    "amount": 8
+                },
+                {
+                    "minute": 8,
+                    "amount": 10
+                },
+                {
+                    "minute": 10,
+                    "amount": 11
+                },
+                {
+                    "minute": 11,
+                    "amount": 12
+                },
+                {
+                    "minute": 16,
+                    "amount": 13
+                },
+                {
+                    "minute": 17,
+                    "amount": 14
+                },
+                {
+                    "minute": 23,
+                    "amount": 15
+                },
+                {
+                    "minute": 24,
+                    "amount": 16
+                },
+                {
+                    "minute": 25,
+                    "amount": 18
+                },
+                {
+                    "minute": 26,
+                    "amount": 19
+                },
+                {
+                    "minute": 27,
+                    "amount": 20
+                },
+                {
+                    "minute": 29,
+                    "amount": 22
+                },
+                {
+                    "minute": 30,
+                    "amount": 23
+                },
+                {
+                    "minute": 32,
+                    "amount": 24
+                },
+                {
+                    "minute": 33,
+                    "amount": 25
+                },
+                {
+                    "minute": 35,
+                    "amount": 26
+                },
+                {
+                    "minute": 36,
+                    "amount": 27
+                },
+                {
+                    "minute": 37,
+                    "amount": 28
+                },
+                {
+                    "minute": 38,
+                    "amount": 29
+                },
+                {
+                    "minute": 39,
+                    "amount": 31
+                },
+                {
+                    "minute": 40,
+                    "amount": 33
+                },
+                {
+                    "minute": 42,
+                    "amount": 34
+                },
+                {
+                    "minute": 44,
+                    "amount": 36
+                },
+                {
+                    "minute": 45,
+                    "amount": 37
+                }
+            ],
+            "team": "5ffc5097ebde212dac2380c4"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:36:03.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "off_target",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 0
+                },
+                {
+                    "minute": 36,
+                    "amount": 1
+                }
+            ],
+            "team": "5ffc5097ebde212dac2380c4"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:37:04.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "on_target",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 0
+                },
+                {
+                    "minute": 7,
+                    "amount": 1
+                },
+                {
+                    "minute": 9,
+                    "amount": 2
+                },
+                {
+                    "minute": 11,
+                    "amount": 3
+                },
+                {
+                    "minute": 37,
+                    "amount": 4
+                }
+            ],
+            "team": "5ffc5097ebde212dac2380c4"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:39:04.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "corners",
+            "analyses": [
+                {
+                    "minute": 7,
+                    "amount": 1
+                },
+                {
+                    "minute": 32,
+                    "amount": 2
+                },
+                {
+                    "minute": 39,
+                    "amount": 3
+                }
+            ],
+            "team": "5ffc5097ebde212dac2380c4"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:45:06.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "possession",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 51
+                },
+                {
+                    "minute": 2,
+                    "amount": 48
+                },
+                {
+                    "minute": 3,
+                    "amount": 44
+                },
+                {
+                    "minute": 4,
+                    "amount": 47
+                },
+                {
+                    "minute": 5,
+                    "amount": 37
+                },
+                {
+                    "minute": 6,
+                    "amount": 35
+                },
+                {
+                    "minute": 7,
+                    "amount": 37
+                },
+                {
+                    "minute": 8,
+                    "amount": 36
+                },
+                {
+                    "minute": 9,
+                    "amount": 37
+                },
+                {
+                    "minute": 10,
+                    "amount": 36
+                },
+                {
+                    "minute": 11,
+                    "amount": 36
+                },
+                {
+                    "minute": 12,
+                    "amount": 39
+                },
+                {
+                    "minute": 13,
+                    "amount": 38
+                },
+                {
+                    "minute": 14,
+                    "amount": 39
+                },
+                {
+                    "minute": 15,
+                    "amount": 38
+                },
+                {
+                    "minute": 16,
+                    "amount": 37
+                },
+                {
+                    "minute": 17,
+                    "amount": 36
+                },
+                {
+                    "minute": 18,
+                    "amount": 37
+                },
+                {
+                    "minute": 19,
+                    "amount": 39
+                },
+                {
+                    "minute": 20,
+                    "amount": 39
+                },
+                {
+                    "minute": 21,
+                    "amount": 39
+                },
+                {
+                    "minute": 22,
+                    "amount": 39
+                },
+                {
+                    "minute": 24,
+                    "amount": 38
+                },
+                {
+                    "minute": 25,
+                    "amount": 39
+                },
+                {
+                    "minute": 28,
+                    "amount": 40
+                },
+                {
+                    "minute": 29,
+                    "amount": 39
+                },
+                {
+                    "minute": 31,
+                    "amount": 41
+                },
+                {
+                    "minute": 32,
+                    "amount": 40
+                },
+                {
+                    "minute": 33,
+                    "amount": 40
+                },
+                {
+                    "minute": 34,
+                    "amount": 42
+                },
+                {
+                    "minute": 35,
+                    "amount": 40
+                },
+                {
+                    "minute": 36,
+                    "amount": 40
+                },
+                {
+                    "minute": 39,
+                    "amount": 39
+                },
+                {
+                    "minute": 40,
+                    "amount": 38
+                },
+                {
+                    "minute": 41,
+                    "amount": 40
+                },
+                {
+                    "minute": 42,
+                    "amount": 39
+                },
+                {
+                    "minute": 44,
+                    "amount": 38
+                },
+                {
+                    "minute": 45,
+                    "amount": 39
+                }
+            ],
+            "team": "5ffc511eebde212dac238c4d"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:45:06.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "attacks",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 6
+                },
+                {
+                    "minute": 2,
+                    "amount": 8
+                },
+                {
+                    "minute": 3,
+                    "amount": 10
+                },
+                {
+                    "minute": 4,
+                    "amount": 12
+                },
+                {
+                    "minute": 6,
+                    "amount": 13
+                },
+                {
+                    "minute": 7,
+                    "amount": 14
+                },
+                {
+                    "minute": 8,
+                    "amount": 16
+                },
+                {
+                    "minute": 9,
+                    "amount": 19
+                },
+                {
+                    "minute": 11,
+                    "amount": 20
+                },
+                {
+                    "minute": 12,
+                    "amount": 21
+                },
+                {
+                    "minute": 14,
+                    "amount": 23
+                },
+                {
+                    "minute": 15,
+                    "amount": 24
+                },
+                {
+                    "minute": 17,
+                    "amount": 25
+                },
+                {
+                    "minute": 18,
+                    "amount": 28
+                },
+                {
+                    "minute": 21,
+                    "amount": 29
+                },
+                {
+                    "minute": 22,
+                    "amount": 31
+                },
+                {
+                    "minute": 23,
+                    "amount": 33
+                },
+                {
+                    "minute": 25,
+                    "amount": 34
+                },
+                {
+                    "minute": 27,
+                    "amount": 37
+                },
+                {
+                    "minute": 28,
+                    "amount": 39
+                },
+                {
+                    "minute": 31,
+                    "amount": 43
+                },
+                {
+                    "minute": 33,
+                    "amount": 44
+                },
+                {
+                    "minute": 34,
+                    "amount": 46
+                },
+                {
+                    "minute": 36,
+                    "amount": 47
+                },
+                {
+                    "minute": 37,
+                    "amount": 50
+                },
+                {
+                    "minute": 38,
+                    "amount": 51
+                },
+                {
+                    "minute": 39,
+                    "amount": 52
+                },
+                {
+                    "minute": 41,
+                    "amount": 56
+                },
+                {
+                    "minute": 42,
+                    "amount": 57
+                },
+                {
+                    "minute": 44,
+                    "amount": 58
+                }
+            ],
+            "team": "5ffc511eebde212dac238c4d"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:41:05.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "dangerous_attacks",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 2
+                },
+                {
+                    "minute": 8,
+                    "amount": 5
+                },
+                {
+                    "minute": 10,
+                    "amount": 6
+                },
+                {
+                    "minute": 14,
+                    "amount": 7
+                },
+                {
+                    "minute": 19,
+                    "amount": 9
+                },
+                {
+                    "minute": 28,
+                    "amount": 11
+                },
+                {
+                    "minute": 31,
+                    "amount": 12
+                },
+                {
+                    "minute": 33,
+                    "amount": 13
+                },
+                {
+                    "minute": 34,
+                    "amount": 15
+                },
+                {
+                    "minute": 37,
+                    "amount": 16
+                },
+                {
+                    "minute": 38,
+                    "amount": 17
+                },
+                {
+                    "minute": 41,
+                    "amount": 18
+                }
+            ],
+            "team": "5ffc511eebde212dac238c4d"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:28:05.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "off_target",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 1
+                },
+                {
+                    "minute": 28,
+                    "amount": 2
+                }
+            ],
+            "team": "5ffc511eebde212dac238c4d"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:28:05.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "on_target",
+            "analyses": [
+                {
+                    "minute": 1,
+                    "amount": 0
+                },
+                {
+                    "minute": 8,
+                    "amount": 2
+                },
+                {
+                    "minute": 28,
+                    "amount": 3
+                }
+            ],
+            "team": "5ffc511eebde212dac238c4d"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:34:03.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "corners",
+            "analyses": [
+                {
+                    "minute": 19,
+                    "amount": 1
+                },
+                {
+                    "minute": 34,
+                    "amount": 2
+                }
+            ],
+            "team": "5ffc511eebde212dac238c4d"
+        },
+        {
+            "updatedAt": {
+                "date": "2022-05-20T17:43:04.000Z",
+                "timezone": "UTC",
+                "timezoneType": "3"
+            },
+            "type": "yellowcards",
+            "analyses": [
+                {
+                    "minute": 43,
+                    "amount": 1
+                }
+            ],
+            "team": "5ffc511eebde212dac238c4d"
+        }
+    ],
+    "visitorTeam": {
+        "slug": "Dekani-13224",
+        "name": "Dekani",
+        "fullName": null,
+        "logoPath": "https://cdn.sportmonks.com/images/soccer/teams/8/13224.png",
+        "imagePath": null,
+        "isPopular": "false",
+        "isCup": false,
+        "type": null,
+        "popularity": null,
+        "commonName": null,
+        "_id": "5ffc511eebde212dac238c4d"
+    },
+    "visitorTeamStats": {
+        "stats": {
+            "xg": 0,
+            "PPG": 0.8333333333333334,
+            "BTTS": 16.666666666666664,
+            "cards": 3.6666666666666665,
+            "goals": 1.5,
+            "corners": 5.333333333333333,
+            "over0_5": 83.33333333333334,
+            "over1_5": 50,
+            "over2_5": 16.666666666666664,
+            "over3_5": 0,
+            "_id": "62867a9d39ce1000379089b5"
+        },
+        "percentile": {
+            "xg": 0,
+            "PPG": 31.8,
+            "BTTS": 18.2,
+            "cards": 54.5,
+            "goals": 13.6,
+            "corners": 54.5,
+            "over0_5": 27.3,
+            "over1_5": 36.4,
+            "over2_5": 27.3,
+            "over3_5": 18.2,
+            "_id": "6287064a39ce100037558fb8"
+        }
+    },
+    "events": [],
+    "stats": [
+        {
+            "_id": "6287c95290656a1cfcefc32d",
+            "fixture": "62780bdb90656a1cfca31555",
+            "team": "5ffc5097ebde212dac2380c4",
+            "attacks": {
+                "dangerousAttacks": 37,
+                "attacks": 61
+            },
+            "ballSafe": 5,
+            "corners": 3,
+            "fouls": null,
+            "freeKick": null,
+            "goalAttempts": null,
+            "goalKick": null,
+            "goals": 0,
+            "injuries": null,
+            "offsides": null,
+            "passes": {
+                "accurate": null,
+                "percentage": null
+            },
+            "penalties": 0,
+            "possessionTime": 61,
+            "redCards": 0,
+            "shots": {
+                "total": 5,
+                "onGoal": 4,
+                "offGoal": 1,
+                "blocked": null,
+                "insideBox": null,
+                "outsideBox": null
+            },
+            "substitutions": 0,
+            "tackles": null,
+            "yellowCards": 0,
+            "yellowRedCards": 0
+        },
+        {
+            "_id": "6287c95290656a1cfcefc32f",
+            "fixture": "62780bdb90656a1cfca31555",
+            "team": "5ffc511eebde212dac238c4d",
+            "attacks": {
+                "dangerousAttacks": 18,
+                "attacks": 58
+            },
+            "ballSafe": 7,
+            "corners": 2,
+            "fouls": null,
+            "freeKick": null,
+            "goalAttempts": null,
+            "goalKick": null,
+            "goals": 0,
+            "injuries": null,
+            "offsides": null,
+            "passes": {
+                "accurate": null,
+                "percentage": null
+            },
+            "penalties": 0,
+            "possessionTime": 39,
+            "redCards": 0,
+            "shots": {
+                "total": 5,
+                "onGoal": 3,
+                "offGoal": 2,
+                "blocked": null,
+                "insideBox": null,
+                "outsideBox": null
+            },
+            "substitutions": 0,
+            "tackles": null,
+            "yellowCards": 1,
+            "yellowRedCards": 0
+        }
+    ]
+}
