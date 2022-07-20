@@ -10,6 +10,7 @@ import { HttptestService } from '../httptest.service';
 export class LiveComponent implements OnInit {
   fixtuer: any = [];
   err: any = [];
+  data: any;
   constructor(
     private _SockerIoService: SockerIoService,
     private _HttptestService: HttptestService
@@ -29,6 +30,14 @@ export class LiveComponent implements OnInit {
   test() {
     this._HttptestService.getdata().subscribe({
       next: (data: any) => {
+        console.log(data);
+      },
+    });
+  }
+  test2() {
+    this._HttptestService.getAllFixtures().subscribe({
+      next: (data: any) => {
+        this.data = data;
         console.log(data);
       },
     });

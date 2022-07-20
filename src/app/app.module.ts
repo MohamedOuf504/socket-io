@@ -6,7 +6,8 @@ import { SocketIoModule, SocketIoConfig } from 'ngx-socket-io';
 import { LiveComponent } from './live/live.component';
 import { HttpClientModule } from '@angular/common/http';
 const config: SocketIoConfig = {
-  url: 'https://elevenstats-be-stage.deploystage.com', // socket server url;
+  url: 'http://localhost:3000', // socket server url;
+  // url: 'https://elevenstats-be-stage.deploystage.com', // socket server url;
   options: {
     transports: ['websocket'],
     upgrade: true,

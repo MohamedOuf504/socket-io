@@ -7,13 +7,11 @@ import { Injectable } from '@angular/core';
 export class HttptestService {
   constructor(private http: HttpClient) {}
   getdata() {
-    return this.http.post(
-      'http://192.168.1.234/api/v1/predictionH2H/18439709',
-      {
-        voted: 'Draw',
-      }
-    );
+    return this.http.post('http://localhost:3000/api/v1/predictionH2H/18439709', {
+      voted: 'Coast-Stima-236608',
+    });
   }
-  getAllFixtures(){
+  getAllFixtures() {
+    return this.http.get('http://localhost:3000/api/v1/predictionH2H/18439709');
   }
 }

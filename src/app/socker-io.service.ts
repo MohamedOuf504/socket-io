@@ -8,15 +8,7 @@ export class SockerIoService {
   constructor(private socket: Socket) {}
   // listen event
   onFetchLive() {
-    console.log(this.socket.emit('x', 'hi'));
-    console.log(this.socket.on('x', (data: any)=>{
-      console.log(data);
-      
-    }));
-
-    return this.socket.fromEvent(
-      'live_bulleen-lions-vs-manningham-united-blues-18460031'
-    );
+    return this.socket.fromEvent('Allvoted_18439709');
   }
   //sum two num
 }
