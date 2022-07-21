@@ -8,9 +8,11 @@ import { HttptestService } from '../httptest.service';
   styleUrls: ['./live.component.sass'],
 })
 export class LiveComponent implements OnInit {
-  fixtuer: any = [];
+  data1: any = [];
   err: any = [];
-  data: any;
+  data: any = [];
+  data2: any = [];
+  
   constructor(
     private _SockerIoService: SockerIoService,
     private _HttptestService: HttptestService
@@ -20,8 +22,8 @@ export class LiveComponent implements OnInit {
     console.log('done');
     this._SockerIoService.onFetchLive().subscribe({
       next: (data: any) => {
-        this.fixtuer.push(data);
-        console.log(data.ip);
+        this.data.push(data);
+    //     console.log(data.ip);
       },
       error: (err) => this.err.push(err),
     });
@@ -31,13 +33,22 @@ export class LiveComponent implements OnInit {
     this._HttptestService.getdata().subscribe({
       next: (data: any) => {
         console.log(data);
+
       },
     });
   }
   test2() {
     this._HttptestService.getAllFixtures().subscribe({
       next: (data: any) => {
-        this.data = data;
+        this.data1.push(data);
+        console.log(data);
+      },
+    });
+  }
+  test3() {
+    this._HttptestService.rmAllFixtures().subscribe({
+      next: (data: any) => {
+        this.data2.push(data);
         console.log(data);
       },
     });

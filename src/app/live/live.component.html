@@ -1,7 +1,20 @@
-<section class="bg-danger d- row w-100 vh-100">
+<section class="  row">
+  <h5> socket </h5>
   <div>
-    <div class="x" *ngFor="let item of fixtuer">
+    <div class="bg-success" *ngFor="let item of data">
       {{ item | json}}
+      <hr>
+    </div>
+    <h5> log get</h5>
+    <div class="bg-info" *ngFor="let item of data1">
+  
+      {{ item | json }}
+      <hr>
+    </div>
+    <h5> log remove</h5>
+    <div class="bg-warning" *ngFor="let item of data2">
+      {{ item | json }}
+      <hr>
     </div>
   </div>
   <div
@@ -13,11 +26,12 @@
     <button class="btn btn-info p-2 m-2" (click)="test2()">
  Get predictionH2H 
     </button>
+    <button class="btn btn-info p-2 m-2" (click)="test3()">
+      Rm predictionH2H 
+         </button>
   </div>
-  <div>
-    {{ data | json }}
-  </div>
-  <div class="col-4 pt-5">
+ 
+  <div class="col-4">
     <div class="btn-group" role="group" aria-label="Basic mixed styles example">
       <button type="button" class="btn btn-info">Left</button>
       <button type="button" class="btn btn-warning">Middle</button>

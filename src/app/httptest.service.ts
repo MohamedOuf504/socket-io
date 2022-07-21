@@ -7,11 +7,23 @@ import { Injectable } from '@angular/core';
 export class HttptestService {
   constructor(private http: HttpClient) {}
   getdata() {
-    return this.http.post('http://localhost:3000/api/v1/predictionH2H/18439709', {
-      voted: 'Coast-Stima-236608',
-    });
+    return this.http.post(
+      'http://localhost:3006/api/v1/predictionH2H/18439709',
+      {
+        voted: 'Coast-Stima-236608',
+      }
+    );
   }
   getAllFixtures() {
-    return this.http.get('http://localhost:3000/api/v1/predictionH2H/18439709');
+    return this.http.get('http://localhost:3006/api/v1/predictionH2H/18439709');
+  }
+  rmAllFixtures() {
+    return this.http.patch(
+      'http://localhost:3006/api/v1/predictionH2H/18439709',
+      {
+        voted: 'Mwatate-United-252221',
+        removevote: 'Coast-Stima-236608',
+      }
+    );
   }
 }
